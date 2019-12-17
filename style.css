@@ -1,0 +1,188 @@
+section, em {
+  text-align: center;
+}
+
+p {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #393e46;
+}
+
+#footer {
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.social-links {
+  margin-bottom: 20px;
+}
+
+.social {
+  padding: 0 15px;
+}
+
+.social:hover {
+  color: #32407b;
+}
+
+/*Title Elements*/
+.title {
+  background-color: #111d5e;
+  text-align: left;
+}
+
+.container {
+  padding: 4% 10%;
+}
+
+.Intro {
+  font-family: 'Russo One', sans-serif;
+  font-size: 4rem;
+  color: #ffffff;
+  padding-bottom: 10%;
+  margin-left: 16px;
+  line-height: 1.5;
+}
+
+.intro-img {
+  padding-left: 25px;
+}
+
+.intro-buttons {
+  font-family: 'Montserrat Alternates', sans-serif;
+  padding: 0 10px;
+  margin-left: 18px;
+}
+
+/*Navigation Elements*/
+.navbar {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/*Features Elements*/
+.features {
+  padding: 2% 15%;
+}
+
+.qualities {
+  font-family: 'Lilita One', cursive;
+  color: #222831;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #111d5e;
+  margin-bottom: 15px;
+}
+
+.icon:hover {
+  color: #32407b;
+}
+
+/* Testimonial Elements */
+.testimonials {
+  background-color: #111d5e;
+  color: #ffffff;
+}
+
+.testimonal-image {
+  border-radius: 100%;
+  width: 180px;
+  height: 180px;
+  margin: 40px;
+}
+
+.statement {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #ffffff;
+  line-height: 1.5;
+  padding: 0 4%;
+}
+
+.press {
+  background-color: #111d5e;
+  padding: 2%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 15px 20px 30px;
+}
+
+/* Carousel Elements */
+.carousel-item {
+  padding: 5% 15%;
+}
+
+/* Pricing  Elements */
+.pricing {
+  padding: 5% 15%;
+}
+
+.price-features {
+  font-family: 'Montserrat Alternates', sans-serif;
+  line-height: 2;
+  font-size: 18px;
+}
+
+.card-container {
+  padding: 4% 0;
+  display: block;
+  margin: auto 15px;
+}
+
+.pricing-call {
+  font-family: 'Russo One', sans-serif;
+  font-size: 4rem;
+}
+
+.card-deck, .card {
+  min-width: 220px;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.service-options, .pricing-card-title {
+  font-family: 'Russo One', sans-serif;
+  color: #222831;
+}
+
+.pricing-option {
+  margin-left: auto;
+}
+
+/* Call To Action Elements */
+.cta {
+  padding: 7% 15%;
+  background-color: #111d5e;
+}
+
+.call-heading {
+  font-family: 'Lilita One', cursive;
+  color: #ffffff;
+  font-size: 3.5rem;
+}
+
+.calls {
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 30px 0 10px 25px;
+}
+
+@media (max-width: 1028px) {
+  .title {
+    text-align: center;
+  }
+
+  .intro-img {
+    margin-top: 30px;
+  }
+}
